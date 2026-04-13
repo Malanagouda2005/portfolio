@@ -83,7 +83,7 @@ cd your-portfolio
 
 * 📧 Email: mallanagoudahosamani2005@gmail.com
 * 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🐙 GitHub: https://github.com/Mallanagouda05
+* 🐙 GitHub: https://github.com/Mallanagouda2005
 
 ---
 
