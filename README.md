@@ -25,12 +25,12 @@ I am a passionate developer interested in:
 * JavaScript
 * React.js
 
-### Backend (if applicable)
+### Backend 
 
 * Node.js
 * Express.js
 
-### Database (if applicable)
+### Database 
 
 * MongoDB / MySQL
 
@@ -46,16 +46,9 @@ I am a passionate developer interested in:
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
 
 ---
 
-## 🔗 Live Demo
-
-👉 [View Portfolio](#)
-*(Add your deployed link here)*
 
 ---
 
@@ -88,9 +81,9 @@ cd your-portfolio
 
 ## 📞 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: mallanagoudahosamani2005@gmail.com
 * 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🐙 GitHub: https://github.com/your-username
+* 🐙 GitHub: https://github.com/Mallanagouda05
 
 ---
 
