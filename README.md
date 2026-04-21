@@ -29,6 +29,7 @@ I am a passionate developer interested in:
 
 * Node.js
 * Express.js
+* Flask
 
 ### Database 
 
@@ -82,7 +83,7 @@ cd your-portfolio
 ## 📞 Contact
 
 * 📧 Email: mallanagoudahosamani2005@gmail.com
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💼 LinkedIn: https://www.linkedin.com/in/mallanagouda-hosamani
 * 🐙 GitHub: https://github.com/Mallanagouda2005
 
 ---
