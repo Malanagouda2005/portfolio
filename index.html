@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mallanagouda | Portfolio</title>
+  <link rel="stylesheet" href="mm.css">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="header">
+    <img src="propic.jpg" alt="Profile Photo" class="profile">
+    <h1>Mallanagouda Hosamani</h1>
+    <p>Full Stack Web Developer</p>
+    <a href="#contact" class="btn">Hire Me</a>
+  </header>
+
+  <!-- ===== ABOUT ===== -->
+  <section class="section">
+    <h2>About Me</h2>
+    <p>
+     I’m a passionate Full-Stack Web Developer specializing in modern, responsive web applications for startups and growing businesses.
+
+Whether you need a professional business website, an e-commerce platform, or a custom web application, I can help bring your idea to life.
+    </p>
+  </section>
+
+  <!-- ===== SKILLS ===== -->
+  <section class="section gray">
+    <h2>Skills</h2>
+    <div class="skills">
+      <span>HTML</span>
+      <span>CSS</span>
+      <span>JavaScript</span>
+      <span>React </span>
+      <span>Git & GitHub</span>
+      <span>Node.js</span>
+      <span>Express & MongoDB</span>
+      <span>REST API Development</span>
+      <span>WordPress & SEO Optimization</span>
+    </div>
+  </section>
+
+  <!-- ===== PROJECTS ===== -->
+  <section class="section">
+    <h2>Projects</h2>
+    <div class="projects">
+
+      <div class="card">
+        <h3>Healthcare Appointment UI</h3>
+        <p>Frontend design for booking doctor appointments.</p>
+        <p><b>Tech:</b> React (UI) , node.js, Express,mangoDB</p>
+        <a href="#">GitHub</a>
+      </div>
+
+      <div class="card">
+        <h3>E-commerce Website</h3>
+        <p>Product listing and shopping UI design.</p>
+        <p><b>Tech:</b>React (UI) , node.js, Express,mangoDB</p>
+        <a href="#">GitHub</a>
+      </div>
+
+      <div class="card">
+        <h3>FarmLink</h3>
+        <p>Platform UI connecting farmers and buyers.</p>
+        <p><b>Tech:</b> HTML, CSS</p>
+        <a href="#">GitHub</a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ===== EDUCATION ===== -->
+  <section class="section gray">
+    <h2>Education</h2>
+    <p>Visvesvaraya Technological University
+Bachelor of Engineering (BEng), Computer science and Engineering</p>
+    
+  </section>
+
+  <!-- ===== CONTACT ===== -->
+  <section class="section" id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: mallanagoudahosamani2005@gmail.com</p>
+    <p>GitHub: github.com/Mallanagouda-Hosamani</p>
+    <p>phone nu: 7892453245</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Mallanagouda. All rights reserved.</p>
+  </footer>
+  <script>
+  const reveals = document.querySelectorAll(".reveal");
+
+  window.addEventListener("scroll", () => {
+    reveals.forEach(el => {
+      const top = el.getBoundingClientRect().top;
+      const height = window.innerHeight;
+
+      if (top < height - 100) {
+        el.classList.add("active");
+      }
+    });
+  });
+</script>
+
+
+</body>
+</html>
