@@ -45,13 +45,7 @@ I am a passionate developer interested in:
 * 📬 Contact Form
 * 🌙 Responsive Design
 
----
-
-
----
-
-
----
+##
 
 ## 📁 Installation & Setup
 
